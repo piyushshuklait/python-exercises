@@ -1,4 +1,4 @@
-# python-exercises
+# Python Exercises
 Python : Exercises, Practice, Solution
 
 
